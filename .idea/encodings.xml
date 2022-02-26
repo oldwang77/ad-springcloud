@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ad-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ad-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-ad-service/ad-binlog-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-ad-service/ad-binlog-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-ad-service/ad-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-ad-service/ad-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-ad-service/ad-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imooc-ad-service/ad-sponsor/src/main/java" charset="UTF-8" />
+  </component>
+</project>

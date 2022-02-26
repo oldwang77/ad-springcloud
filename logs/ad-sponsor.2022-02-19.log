@@ -1,0 +1,4 @@
+[2022-02-19 21:13:21:548] main INFO com.imooc.ad.SponsorApplication 659 - No active profile set, falling back to default profiles: default
+[2022-02-19 21:14:21:983] main INFO com.imooc.ad.SponsorApplication 659 - No active profile set, falling back to default profiles: default
+[2022-02-19 21:19:53:430] main INFO com.imooc.ad.SponsorApplication 659 - No active profile set, falling back to default profiles: default
+[2022-02-19 21:20:02:612] main INFO com.imooc.ad.SponsorApplication 59 - Started SponsorApplication in 13.207 seconds (JVM running for 15.296)

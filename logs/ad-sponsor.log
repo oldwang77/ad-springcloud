@@ -1,0 +1,6 @@
+[2022-02-24 11:27:54:212] main INFO com.imooc.ad.service.DumpDataService 659 - No active profile set, falling back to default profiles: default
+[2022-02-24 11:28:02:768] main INFO com.imooc.ad.service.DumpDataService 59 - Started DumpDataService in 12.956 seconds (JVM running for 14.556)
+[2022-02-24 14:31:33:248] main INFO c.imooc.ad.service.AdPlanServiceTest 659 - No active profile set, falling back to default profiles: default
+[2022-02-24 14:31:43:175] main INFO c.imooc.ad.service.AdPlanServiceTest 59 - Started AdPlanServiceTest in 16.586 seconds (JVM running for 18.276)
+[2022-02-24 22:46:25:249] main INFO com.imooc.ad.SponsorApplication 659 - No active profile set, falling back to default profiles: default
+[2022-02-24 22:46:35:911] main INFO com.imooc.ad.SponsorApplication 59 - Started SponsorApplication in 16.256 seconds (JVM running for 18.004)

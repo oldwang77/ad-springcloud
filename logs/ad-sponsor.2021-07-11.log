@@ -1,0 +1,12 @@
+[2021-07-11 10:22:30:657] main INFO com.imooc.ad.SponsorApplication 659 - No active profile set, falling back to default profiles: default
+[2021-07-11 10:22:40:212] main INFO com.imooc.ad.SponsorApplication 59 - Started SponsorApplication in 11.014 seconds (JVM running for 12.424)
+[2021-07-11 10:40:20:487] http-nio-7000-exec-6 INFO c.i.ad.controller.UserOPController 32 - ad-sponsor: createUser -> {"username":"mingming"}
+[2021-07-11 10:46:46:934] http-nio-7000-exec-8 INFO c.i.ad.controller.AdPlanOPController 37 - ad-sponsor: getAdPlanByIds -> {"ids":[10],"userId":15}
+[2021-07-11 10:48:11:134] http-nio-7000-exec-10 INFO c.i.ad.controller.AdPlanOPController 37 - ad-sponsor: getAdPlanByIds -> {"ids":[10],"userId":15}
+[2021-07-11 10:53:06:476] http-nio-7000-exec-2 INFO c.i.ad.controller.AdPlanOPController 37 - ad-sponsor: getAdPlanByIds -> {"ids":[10],"userId":15}
+[2021-07-11 10:57:29:227] http-nio-7000-exec-4 INFO c.i.ad.controller.UserOPController 32 - ad-sponsor: createUser -> {"username":"ming"}
+[2021-07-11 11:12:32:136] http-nio-7000-exec-6 INFO c.i.ad.controller.AdPlanOPController 37 - ad-sponsor: getAdPlanByIds -> {"ids":[10],"userId":15}
+[2021-07-11 11:45:29:117] main INFO com.imooc.ad.SponsorApplication 659 - No active profile set, falling back to default profiles: default
+[2021-07-11 11:45:34:366] main INFO com.imooc.ad.SponsorApplication 59 - Started SponsorApplication in 6.147 seconds (JVM running for 6.84)
+[2021-07-11 11:47:24:036] http-nio-7000-exec-1 INFO c.i.ad.controller.AdPlanOPController 37 - ad-sponsor: getAdPlanByIds -> {"ids":[10],"userId":15}
+[2021-07-11 11:51:19:782] http-nio-7000-exec-3 INFO c.i.ad.controller.AdPlanOPController 37 - ad-sponsor: getAdPlanByIds -> {"ids":[10],"userId":15}

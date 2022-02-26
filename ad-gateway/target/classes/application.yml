@@ -1,0 +1,28 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: ad-gateway
+eureka:
+  client:
+    service-url:
+#      defaultZone: http://server1:8000/eureka/
+      defaultZone: http://localhost:8000/eureka/
+
+# 请求转发
+zuul:
+  prefix: /imooc
+  routes:
+    sponsor:
+      path: /ad-sponsor/**
+      serviceId: eureka-client-ad-sponsor
+      strip-prefix: false
+    search:
+      path: /ad-search/**
+      serviceId: eureka-client-ad-search
+      strip-prefix: false
+
+
+# 转发的时候保留前缀 如  ip:9000/imooc/ad-sponsor/craete/adPlan
+# 因为我们设置了strip-prefix，所以转发的时候ad-sponsor会保留
+# 向eureka-client-ad-sponsor转发：/ad-sponsor/create/adPlan

@@ -1,0 +1,22 @@
+{
+  "adSlot2Ads": {
+    "ad-x": [
+      {
+        "adId": 10,
+        "adUrl": "https://www.imooc.com",
+        "clickMonitorUrl": [
+          "www.imooc.com",
+          "www.imooc.com"
+        ],
+        "height": 720,
+        "materialType": 1,
+        "showMonitorUrl": [
+          "www.imooc.com",
+          "www.imooc.com"
+        ],
+        "type": 1,
+        "width": 1080
+      }
+    ]
+  }
+}
